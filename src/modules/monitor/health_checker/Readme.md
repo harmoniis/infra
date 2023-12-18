@@ -1,0 +1,1 @@
+docker buildx build --platform linux/amd64 -t $docker_hub_id/health_checker:latest . --push
