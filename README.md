@@ -112,12 +112,6 @@ global deployment:
 kubectl --kubeconfig=kubeconfig-CLOUD-REGION.yaml get nodes
 
 
-## Deployment Overview
-
-This graph visualizes the infrastructure deployment structure. 
-
-![Deployment Overview](/doc/deployment.jpg "Deployment Overview")
-
 
 ## Using private repositories in GCP
 
